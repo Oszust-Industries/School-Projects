@@ -13,7 +13,7 @@ Languages: English
 
 ## Projects:
 
-[Wordle (Java)]()
+[Wordle (Java)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#wordle-java)
 
 ## Installation:
 

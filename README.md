@@ -28,7 +28,7 @@ Some projects reads and writes saves on your computer.
 
 Release Date: February 17, 2022
 
-Last Update: February 24, 2022
+Last Updated: February 24, 2022
 
 Developer: [Oszust Industries](https://github.com/Oszust-Industries)
 

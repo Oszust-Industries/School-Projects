@@ -1,0 +1,7 @@
+v.1.0.0
+	RELEASE
+
+v1.1.0
+	-Removed profanity words from possible word list.
+	-Created new "words in wrong spot" system
+	

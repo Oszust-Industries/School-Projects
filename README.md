@@ -9,7 +9,7 @@ Developer: [Oszust Industries](https://github.com/Oszust-Industries)
 
 Languages: English
 
-<br /> Some projects reads and writes saves on your computer.
+Some projects reads and writes saves on your computer.
 
 ## Projects:
 

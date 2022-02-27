@@ -15,7 +15,7 @@ Some projects reads and writes saves on your computer.
 
 [Wordle (Java)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#wordle-java)
 
-[Space Adventure (Python)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#Space Adventure-Python)
+[Space Adventure (Python)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#space-adventure-python)
 
 ## Installation:
 

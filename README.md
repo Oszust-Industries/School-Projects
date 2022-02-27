@@ -15,6 +15,8 @@ Some projects reads and writes saves on your computer.
 
 [Wordle (Java)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#wordle-java)
 
+[Space Adventure (Python)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#Space Adventure-Python)
+
 ## Installation:
 
 1. Download the entire .zip file and move to the desired location.
@@ -33,3 +35,15 @@ Last Updated: February 24, 2022
 Developer: [Oszust Industries](https://github.com/Oszust-Industries)
 
 A Java wordle game. The game plays very similar to the real wordle. Words are randomly picked from the WordList.java file. There are about 1,000 different words the game can use.
+<br />
+<br />
+<br />
+### Space Adventure (Python)
+
+Release Date: May 24, 2021
+
+Last Updated: February 26, 2022
+
+Developer: [Oszust Industries](https://github.com/Oszust-Industries)
+
+A Python space-themed Choose-Your-Own-Adventure game. The game has one mission with about six choices. The best part about the game is choosing a specific ship with unique stats. Then the player gets to customize their crew to help them in the story.

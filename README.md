@@ -1,6 +1,6 @@
 # School Projects
 
-Play through forty different Hangman rounds with four unique categories. Guess letters until you solve the entire word. If you already know the word, you can solve it early. Three distinct game difficulties provide a challenge for every player. 
+School Projects is a collection of different games and software that I create for school projects. Different programming languages are used, based on whatever my class is currently using. Most of the projects have descriptive comments to learn more about the code.
 
 Release Date: February 26, 2022
 
